@@ -1,2 +1,3 @@
 This is my first file made during my first class in T4, why??? Because :)
 even more text down here cause git is a git >:(
+ah, here i am making changes to try out using git stash
